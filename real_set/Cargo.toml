@@ -2,5 +2,6 @@
 name = "real_set"
 version = "0.1.0"
 authors = ["Alex Gherghisan <alexghr@users.noreply.github.com>"]
+license = "MIT"
 
 [dependencies]
