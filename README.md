@@ -1,3 +1,5 @@
-# real_set
+# Rosetta code
 
-An Rust implementation of the Rosetta Code problem http://rosettacode.org/wiki/Set_of_real_numbers
+This repository contains solutions in Rust to [Rosetta Code] problems.
+
+[Rosetta code]: http://rosettacode.org/wiki/Rosetta_Code
